@@ -53,9 +53,9 @@ Note that the string "bbabaaa" is lexicographically larger but the letter 'a' ap
 ## Solution
 
 **Language:** C++  
-**Runtime:** 14 ms (beats 87.92%)  
-**Memory:** 28 MB (beats 53.21%)  
-**Submitted:** 2026-11-21T05:41:34.363Z  
+**Runtime:** 16 ms (beats 81.75%)  
+**Memory:** 28.2 MB (beats 38.56%)  
+**Submitted:** 2026-11-21T05:42:51.502Z  
 
 ```cpp
 
